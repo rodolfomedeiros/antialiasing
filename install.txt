@@ -1,0 +1,6 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install build-essential
+sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+sudo apt-get install freeglut3-dev
+sudo apt-get install libopencv-dev libopencv-highgui-dev
